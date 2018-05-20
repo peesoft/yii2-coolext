@@ -1,0 +1,17 @@
+{
+    "name": "peesoft/yii2-coolext",
+    "type": "yii2-extension",
+    "require": {
+        "peesoft/yii2": "*"
+    },
+    "license": "BSD-3-Clause",
+    "bin": [
+        "src/bin/cool.php"
+    ],
+    "authors": [
+        {
+            "name": "SilverFire - Dmitry Naumenko",
+            "email": "d.naumenko.a@gmail.com"
+        }
+    ]
+}
